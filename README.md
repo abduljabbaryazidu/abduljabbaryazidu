@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-## My name is Abduljabbar. I am a data analyst who is versed in SQL, Excel, R, PowerBi, and Tableau. Everyday, I commit to learning and improving on my data skills. 
+ My name is Abduljabbar. I am a data analyst who is versed in SQL, Excel, R, PowerBi, and Tableau. Everyday, I commit to learning and improving on my data skills. 
 
-## 🔭 I’m currently working on building my data analytics skills in R, SQL, Excel, PowerBi, and Tableau.
+🔭 I’m currently working on building my data analytics skills in R, SQL, Excel, PowerBi, and Tableau.
 
-## 🌱 I’m currently learning everything.
+🌱 I’m currently learning everything.
 
-## 💬 Ask me about everything data, capitalism and entrepreneurship.
+ 💬 Ask me about everything data, capitalism and entrepreneurship.
 
-## 👩🏾‍💻 Connect with me on twitter: https://twitter.com/abduljabaryazid, LinkedIn: http://linkedin.com/in/abduljabbar-yazidu-3280221a0
+👩🏾‍💻 Connect with me on twitter: https://twitter.com/abduljabaryazid, LinkedIn: http://linkedin.com/in/abduljabbar-yazidu-3280221a0
 Fun Fact: I am actually funny
 
 <!--
